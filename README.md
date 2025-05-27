@@ -1,6 +1,8 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-## Hi there 👋
+<p>
+  <h1 align="center"><b>Greetings, I'm Lucca! 👋</b></h1>
+</p>
 
 <!--
 **luccarissato/luccarissato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

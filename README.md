@@ -4,4 +4,6 @@
   <h1 align="center"><b>Greetings, I'm Lucca! 👋</b></h1>
 </p>
 
+# About me:
+
 

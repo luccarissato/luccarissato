@@ -24,9 +24,9 @@ I'm a Brazilian undergraduate at Cesar School majoring in Computer Science.
 
 ## About me:
 
-- I'm interested in Cybersecurity, Game development and Web development, although I'm open to exploring and getting to know more of the world of programming.
-- I'm currently working on adapting the board game "Battleship" on Arduino.
-- I'm always looking to learn something new and improve my skills at coding.
+- Interested in Cybersecurity, DevOps and Web development, although I'm open to exploring new areas and expanding my knowleadge.
+- Currently studying software architecture and development fundamentals.
+- Always looking to learn something new and improve my skills.
 - Dogs > Cats.
 
 ## Top languages and tools:
@@ -39,6 +39,7 @@ I'm a Brazilian undergraduate at Cesar School majoring in Computer Science.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<!--
 ## GitHub Stats:
 
 <p align="center">
@@ -46,3 +47,4 @@ I'm a Brazilian undergraduate at Cesar School majoring in Computer Science.
     <img src="https://github-readme-stats.vercel.app/api?username=luccarissato&show_icons=true&theme=tokyonight"/>
   </a>
 </p>
+-->
